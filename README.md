@@ -5,8 +5,8 @@ This project aims at identifying the factors that influence medical insurance co
 Medical Insurance Personal Dataset from kaggle was the data source for this project.
 
 ## Tools Used
--SQL(Data querying and transformation)
--Power BI(Data cleaning, modeling and visualization)
+- SQL(Data querying and transformation)
+- Power BI(Data cleaning, modeling and visualization)
 
 ## Dataset Description
 The medical cost personal dataset included the following variables:
