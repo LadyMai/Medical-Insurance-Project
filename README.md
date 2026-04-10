@@ -10,26 +10,26 @@ Medical Insurance Personal Dataset from kaggle was the data source for this proj
 
 ## Dataset Description
 The medical cost personal dataset included the following variables:
--Age
--BMI: Body mass index
--Smoking status
--Region
--Gender
--Children
--Charges
+- Age
+- BMI: Body mass index
+- Smoking status
+- Region
+- Gender
+- Children
+- Charges
 
 ## Key Insights
--Smokers contributed significantly to total charges
--BMI was another major factor
--Charges increase proportionally with age
--Region, gender and children had minimal impact
+- Smokers contributed significantly to total charges
+- BMI was another major factor
+- Charges increase proportionally with age
+- Region, gender and children had minimal impact
 
 ## Recommendation
--Introduction of smoking cessation programs
--Weight-loss programs for obese patients
+- Introduction of smoking cessation programs
+- Weight-loss programs for obese patients
 
 ## What I Learnt
--I learnt the importance of background/domain knowledge on analysis
--Growth in my SQL and PowerBI skills
--Improvement in data storytelling
+- I learnt the importance of background/domain knowledge on analysis
+- Growth in my SQL and PowerBI skills
+- Improvement in data storytelling
 
